@@ -1,0 +1,1 @@
+This software is under MIT license, and utilized components under Apache license.
